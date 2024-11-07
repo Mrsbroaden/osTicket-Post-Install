@@ -67,11 +67,14 @@ Configuring Departments
 The above photos just shows me successfully creating a Systems Administration department.
 </p>
 <br />
-
+Configuring Teams
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/dadb8c15-9c65-46e3-ad9a-50cadfebaf39) ![image](https://github.com/user-attachments/assets/1cfef475-78dd-4b90-affe-796b7e75f46e)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This section is very easy and simple. I created a few teams just for the purpose of having different people working different departments to handle various needs. The above is an example of an "Online Banking" team created to handle online banking issues. From the Admin panel, I went to "Agents" and then "Teams". Clicked "Add New Team", and followed the appropriate steps to create the online banking team.
 </p>
 <br />
