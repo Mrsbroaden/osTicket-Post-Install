@@ -84,7 +84,7 @@ Configure Agents
 ![image](https://github.com/user-attachments/assets/910b445d-ffcb-4548-a780-ce48d3556b62) ![image](https://github.com/user-attachments/assets/fef272c3-7e2d-4d07-ac0d-13b6beaadff6)
 
 
-
+In this section, I am simply creating new agents, assigning them to appropriate departments, and giving permissions to navigate throughout osTicket for certain tasks.
 
   
 </p>
