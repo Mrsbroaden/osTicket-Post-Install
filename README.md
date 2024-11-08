@@ -24,8 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configure Roles
 - Configure Departments
-  Configure Teams
-- Allow access for anyone to create Tickets
+- Configure Teams
 - Configure Agents (workers)
 - Configure Users (customers)
 - Configure SLA
@@ -78,3 +77,27 @@ Configuring Teams
 This section is very easy and simple. I created a few teams just for the purpose of having different people working different departments to handle various needs. The above is an example of an "Online Banking" team created to handle online banking issues. From the Admin panel, I went to "Agents" and then "Teams". Clicked "Add New Team", and followed the appropriate steps to create the online banking team.
 </p>
 <br />
+Configure Agents
+<p>
+
+![image](https://github.com/user-attachments/assets/b12510d4-7c31-454e-9ff7-488af3e6ec50) ![image](https://github.com/user-attachments/assets/5fb9c827-b7a2-44c6-9c42-9c022646c818) ![image](https://github.com/user-attachments/assets/6a3112f7-cb70-463f-af9b-d308062a4b75) 
+![image](https://github.com/user-attachments/assets/910b445d-ffcb-4548-a780-ce48d3556b62) ![image](https://github.com/user-attachments/assets/fef272c3-7e2d-4d07-ac0d-13b6beaadff6)
+
+
+
+
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
